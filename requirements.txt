@@ -1,0 +1,8 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+onnx
+onnxruntime
+skl2onnx
